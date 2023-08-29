@@ -24,7 +24,7 @@
 
  ## Dashboard
  ### This Dashboard helps us to have  a better understanding of our Business and How it is doing
- ### 1 Dashboard shows us Coffee sales and its types sale, top customers and sales overseas
+ ### 1 Dashboard shows us Coffee sales and its types sales, top customers and sales overseas
  ### 2 It does have timeline filter where you select specific dates and see how you have done in specific dates
  ### 3 I also have added slicers such coffee size, roast type and Loyalty card to have better understanding of which type has a higher sales
  ![](https://github.com/agajan1197/Excel_Project-Coffee-orders/blob/main/Screenshot%202566-08-29%20at%2010.59.08.png)
